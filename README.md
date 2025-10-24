@@ -1,4 +1,3 @@
-# F
 # Framework (F) — High-Level Overview
 
 ## What F is
